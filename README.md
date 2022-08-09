@@ -1,3 +1,4 @@
+![Japonés time](Cabecera.png)
 # Alfabeto Japonés
 
 Aqui muestro dos de las 3 tablas del silabarios japonés con un estilo propio.
